@@ -1,2 +1,0 @@
-# ReactTrails
-Created with CodeSandbox
